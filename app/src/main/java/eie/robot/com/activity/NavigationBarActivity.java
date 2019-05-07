@@ -14,7 +14,7 @@ import eie.robot.com.fragment.HomeFragment;
 
 public class NavigationBarActivity extends QMUIFragmentActivity {
     @Override
-    protected int getContextViewId() { return R.id.qmuidemo; }
+    protected int getContextViewId() { return R.id.eieRobot; }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
